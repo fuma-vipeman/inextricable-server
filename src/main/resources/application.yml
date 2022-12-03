@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: inextricableServer
+netty:
+  default:
+    allocator:
+      max-order: 3
